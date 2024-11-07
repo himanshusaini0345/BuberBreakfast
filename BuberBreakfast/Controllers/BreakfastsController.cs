@@ -2,7 +2,7 @@
 using BuberBreakfast.Exceptions.Breakfast;
 using BuberBreakfast.Mappers;
 using BuberBreakfast.Models;
-using BuberBreakfast.Services.Breakfast;
+using BuberBreakfast.Services.Breakfasts;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
